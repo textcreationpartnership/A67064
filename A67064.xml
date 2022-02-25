@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Word within-doors, or, A reply to a word without-doors in which the divers opinions of succession to the Crown of England, are compared, in a letter to a person of worth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67064</idno>
+            <idno type="STC">Wing W3576</idno>
+            <idno type="STC">ESTC R23504</idno>
+            <idno type="EEBO-CITATION">12765519</idno>
+            <idno type="OCLC">ocm 12765519</idno>
+            <idno type="VID">93578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 994:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Word within-doors, or, A reply to a word without-doors in which the divers opinions of succession to the Crown of England, are compared, in a letter to a person of worth.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Word without-doors concerning the bill for succession.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:93578:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <head>A Word within-doors: OR, A REPLY TO <hi>A WORD without-doors:</hi> In which The divers OPINIONS of Succeſſion to the CROWN of <hi>England,</hi> are compared.</head>
+            <head type="sub">In a LETTER to a Perſon of Worth.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>AFter my Thanks to you for your double Favour, firſt in laying your commands on me, and then thinking me able to reſolve that ſo much-every-where-controverted Queſtion, and every-where ſo differently decided, of which indeed I may ſay, that the different Intereſt and Affecti<g ref="char:EOLhyphen"/>ons of particular men, are more than any other thing, the occa<g ref="char:EOLhyphen"/>ſion. But, Sir, the people of your parts miſtake the Queſtion, in making it, Whether the Duke by being a Papiſt, is <hi>ipſo facto</hi> diſabled to ſucceed? The many Statutes they alleadge for pre<g ref="char:EOLhyphen"/>ſerving the Proteſtant Religion, make nothing for your concluſion that therefore the Prince muſt be a Proteſtant. To theſe men we need return no other Anſwer than the ſenſe of the late Houſe of Commons, in which his R.H. had perhaps as few friends as ever any Prince had in that Houſe: For what other inference ſhall we deduce from their preparing a Bill, and earneſt endeavour to ſet him aſide by Act of Parliament; but that as yet there is no Law that diſ-inherits a Papiſt.</p>
+            <p>
+               <pb n="2" facs="tcp:93578:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 111 -->
+No better is that other Argument of theirs, from the Corona<g ref="char:EOLhyphen"/>tion-Oath to maintain the eſtabliſht Church; and which his good Father, ſay they, was ſo religious an obſerver of, that he long for that very reaſon reſiſted the two Houſes for taking away the Biſhops Votes in Parliament. This Oath is part of a cere<g ref="char:EOLhyphen"/>mony, nothing adding to the Kings right, who is abſolutely, to all intents and purpoſes, King before his Coronation; nor need he ever proceed to it. Some of our Kings have raigned years with<g ref="char:EOLhyphen"/>out it; ſome have received it more than once. King <hi>Edward</hi> the Fifth was never Crowned, yet he is reckoned amongſt our Kings: And our preſent Soveraign, not to ſpeak of his twelve years abroad, ruled near a year before he was crowned; and yet I think no man will queſtion his Actions then as King.</p>
+            <p>But, Sir, we have in Town another Queſtion, <hi>viz.</hi> Whether (admitting the D. unqueſtionable Right) it may be lawful for the preſerving Religion, and the Peace of three Nations, to deveſt him of that Right becauſe he is a <hi>Roman Catholick?</hi> for to this indeed, however the words may diſguiſe it, is the Queſtion brought; Whether we may not rob a Prince of his Right, becauſe that Right ſutes not with our Intereſt? The doing of evil, though good come of it, I read is forbidden; and I do not find that there is any one Exception to ſo abſolute and general a Rule.</p>
+            <p>But leaving the deciſion of the Queſtion as to <hi>Jus Divinum, na<g ref="char:EOLhyphen"/>turale, &amp; politicum,</hi> to the profeſſors of thoſe Sciences, I ſhall an<g ref="char:EOLhyphen"/>ſwer this Queſtion with an Example, as well for that this better convinces, and is the ſhorter way, <hi>long a per praecepta via, per ex<g ref="char:EOLhyphen"/>empla brevis:</hi> Whoever will reflect on the fortune of <hi>Mary</hi> Queen of <hi>Scots,</hi> whatever the civil pretenſions were againſt her, will find that the cauſe of Religion was that which deſtroyed her; and ſure there were all and greater Motives for that, than here are: yet is that death reproacht, and for ever will be, to a Queen in whoſe whole life, though long, and filled with as great, ſtrange, ſudden, and important Actions and Revolutions, as that of any one Prince whatſoever; there is nothing to accuſe her of beſides. Whatever ſhe might endure in her perſon and conſcience, ſure her Reputation has greatly ſuffered, though it be uncertain how far ſhe were privy to that Action, whether by direct order and ap<g ref="char:EOLhyphen"/>pointment, or by bare conſent and connivance onely; though, if we believe Mr. <hi>Cambden,</hi> it was neither: Yet then if ever there was a neceſſity of doing wrong, and then if ever might that ne<g ref="char:EOLhyphen"/>ceſſity have been juſtified, and that for theſe following Reaſons:</p>
+            <list>
+               <item>1. The Kingdom was on a double account in deſpair of Iſſue, from the Queens abſolute averſion to, and often repeated declara<g ref="char:EOLhyphen"/>tion in Parliament againſt Marriage, and from her years, ſhe being then ſome Fifty four.</item>
+               <item>
+                  <pb n="3" facs="tcp:93578:2"/>
+                  <!-- PDF PAGE 111 -->
+2. The next Heir the Queen of <hi>Scots</hi> had been born and brought up a Papiſt, and having never had other Faith, it was unlikely ſhe ſhould at her age embrace new Principles for which ſhe had ſucked Hatred with her Milk; which Hatred received no ſmall increaſe from the actions of <hi>Murray</hi> and other Rebels, who pretending to profeſs the Reformed Religion, acted, under thoſe pretences, ſuch Villany and Injuſtice, as could not but continue the Queen more a<g ref="char:EOLhyphen"/>verſe to a Religion which as ſhe believed gave colour and counte<g ref="char:EOLhyphen"/>nance to ſuch Practices.</item>
+               <item>3. The ſtate of the Kingdom at that time; The Reformation as eſtabliſht by Queen <hi>Elizabeth</hi> was not yet thirty Years old, and more than half the Kingdom was yet living, who remembred it, and had known Queen <hi>Mary;</hi> and therefore might eaſily under another Queen <hi>Mary</hi> be brought to return to their firſt Opinion.</item>
+            </list>
+            <p>The contrary of theſe three in our preſent caſe, there is no man but can inform them, and therefore I ſhall omit it, to ſhew that even the Caſe expreſſed was an unlawful and unjuſt act. Turn we to the Story, and there ſee, what ways and means were ſtudied for, what endeavours were uſed, to ſecure the Pro<g ref="char:EOLhyphen"/>teſtant Religion, without deſtroying that Princeſs and her Right, and that by all the Miniſters of State: we ſhall have cauſe to be<g ref="char:EOLhyphen"/>lieve, they, as Miniſters of State, were obliged to actions that themſelves in their Conſcience believed unlawful; and yet theſe were wiſe and able Miniſters, if ever Prince had any.</p>
+            <p>But if we conſider the Queen herſelf, and what was her ſenſe of, and her behaviour after her Cozens Death, we ſhall have all the reaſon in the world (knowing her great Judgment and Knowledge) to conclude, that herſelf was well aſſured, that what had been done was wicked and unlawful. But ſome will ſay, We deſire not nor deſign the Death of the Duke, but to ex<g ref="char:EOLhyphen"/>clude him. Such men argue ill; a private man may outlive his fortunes, but 'tis not ſo with Princes: he that would deny a Prince his Throne, would as little allow him Life, if he could.</p>
+            <p>But not to tire you, I ſhall conclude with this: Q. <hi>Mary</hi> died ſitting the Parliament: <hi>Heath</hi> Archbiſhop of <hi>York</hi> and Lord Chancellor, by Order of both Houſes declar'd the Lady <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> Queen, though well known to be a Proteſtant; they ar<g ref="char:EOLhyphen"/>ticle not with the Queen, but rely on Gods Providence for their Religion. Let us not then, Sir, declame againſt their Principles, and our ſelves practiſe them; leave that to the <hi>Puritans,</hi> who with all their pretended Reformation agree with them in this: the Pope pretends a Power ſuperior to Kings, and ſo do they, though they place it elſewhere; what elſe means that Maxime
+<pb n="4" facs="tcp:93578:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 112 -->of theirs, A King is accountable to his People collectively Aſ<g ref="char:EOLhyphen"/>ſembled in Parliament; Again, the Pope and his Followers main<g ref="char:EOLhyphen"/>tain, That a King if an Heretick may be Depoſed. The Puri<g ref="char:EOLhyphen"/>tan will not have the Duke to ſucceed, becauſe he believes Popery, that is, Hereſie.</p>
+            <p>I ſhall take my leave with my Prayers for your Health, and that you may continue firm to your Mother-Church of <hi>England,</hi> of which to write any other <hi>Encomium,</hi> or make any other Character than that which is left us by our late King in his <hi>Eikoon Baſilikee,</hi> to do wrong to his moſt incomparable Pen, take it then, Sir, in his words; <hi>I have tryed it,</hi> ſays that Wife and Learned Prince, <hi>and after much ſearch and many Diſputes, have concluded it to be the beſt in the world, not only in the community as Chriſtian, but alſo in the ſpecial Notion as Re<g ref="char:EOLhyphen"/>formed; keeping the middle way between the Pomp of Superſti<g ref="char:EOLhyphen"/>tious Tyranny, and the Meanneſs of Fantaſtick Anarchy.</hi> Theſe are his words, and in them is great truth. But I ſhall tire you. Farewel, Sir: God keep you long in Health, and ſend you better Neighbours. Do Juſtice, and fear nothing, 'tis both the Advice and Reſolution of</p>
+            <closer>
+               <signed>
+                  <hi>Your very</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
